@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "name": "Ebru Özge",
+      "departman": "Yazılım",
+      "salary": "20000",
+      "id": 1
+    }
+  ]
+}
